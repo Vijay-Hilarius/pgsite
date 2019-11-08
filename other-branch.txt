@@ -1,0 +1,2 @@
+This file is added to check whether a file could be added to another branch
+or not.
